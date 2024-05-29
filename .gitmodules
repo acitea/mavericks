@@ -1,0 +1,6 @@
+[submodule "expressTS"]
+	path = expressTS
+	url = https://github.com/acitea/mavericks-expressTS.git
+[submodule "nextJS"]
+	path = nextJS
+	url = https://github.com/acitea/mavericks-nextJS.git
